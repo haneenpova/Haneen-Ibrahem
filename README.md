@@ -1,5 +1,5 @@
 # Hi, I'm Haneen👋
-High school student passionate about **Data science** and **Artificial intelligence**.  
+High school student passionate about **Data science** and **Artificial Intelligence**.  
 Participant in **DECI (Digital Egypt Initiative)**, exploring the intersection of tech and innovation.   
-Currently building projects using **Python**, **machine learning**, and **data visualization**.  
+Currently building projects using **Python**, **Machine Learning**, and **Data Visualization**.  
 Lifelong learner and future innovator.
